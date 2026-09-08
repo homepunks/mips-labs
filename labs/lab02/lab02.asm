@@ -1,5 +1,5 @@
 .data
-txt: .asciiz "no, just no."
+txt: .asciiz "no, just no.\n"
 
 .text
     li $v0, 4
